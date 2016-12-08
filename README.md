@@ -16,6 +16,18 @@
 ## Melhor Professor(a) Jovem (menos de 18 anos)
 
 
+## Colaborador(a) Pioneiro(a)
+
+- nome: Franciele Pereira
+- github: https://github.com/fpchemical
+- especialidade: Química
+- projeto: [Ebooks de Química](https://github.com/fpchemical/Ebooks-de-Quimica/)
+
+![Melhor Professor(a) Amanda Vilela](https://github.com/Webschool-io/Destaques-2016/raw/master/images/certificado-webschool-colaboradora-pioneira.png)
+
+
+
+
 ## Melhor Aluno Iniciante (em Web)
 
 
