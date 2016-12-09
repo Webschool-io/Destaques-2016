@@ -16,6 +16,9 @@
 ## Melhor Professor(a) Jovem (menos de 18 anos)
 
 
+## Melhor Evento
+
+
 ## Colaborador(a) Pioneiro(a)
 
 - nome: Franciele Pereira
@@ -38,3 +41,9 @@
 
 
 ## Melhor Projeto com Potencial
+
+
+## Melhor Exemplo de Programação para Leigos
+
+
+## Melhor Exemplo de Refatoração Explicada
